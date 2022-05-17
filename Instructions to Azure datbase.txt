@@ -1,0 +1,32 @@
+# Getting Started
+
+
+# Developer details:
+
+# Tools
+
+    1. Visual Studio 2019
+    2. Git for windows
+    3. Windows Forms development
+	4. Azure SQL or MongoDB - TBD
+
+# Setup
+
+    1. Install Visual Studio 2019.
+    2. Install Azure Data Studio - https://docs.microsoft.com/en-us/sql/azure-data-studio/download-azure-data-studio?view=sql-server-ver15#download-azure-data-studio
+	   a. Setup a new Connection
+		   - Server: tcp:supervoters.database.windows.net, 1433
+		   - UserName: supervotersadmin
+		   - Password: Supervoters1!
+		   - Database: SuperVoters
+ 
+    	
+# Change Work flow
+
+    1. Add files to the project dir or modify them.
+    2. Get the status: git status.
+    3. Run git add to stage files for commit: git add.
+    4. Commit files: git commit -m "message".
+    5. Push files to repo: git push.
+
+    Optionally use Visual Studio git.

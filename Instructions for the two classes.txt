@@ -1,0 +1,27 @@
+Instructions -
+
+Update Candidate form make sure user can add candidte name, party, number, address,description/summary of 
+the candidtae. Other extra things you can delete like the id, # of voters  because we are using database.
+
+We should aslo upload picture and save the picture in the code as well.
+Also we should be able to display the canditdate information in this app as seen in azure.
+
+Also you can delete the update button but you can work on the remove button where user can delete candidates, 
+and from the display they get removed as well. Then we need to save are information so the next 
+time I run this in visual studio code, it saves are previous information.
+
+Also you can add Title Like Candidate on the top of the page.
+
+-----------------------------------------------------------------------------------------
+Voter class should be similar-
+
+But we need to change the code so its setup in and sending data to the Azure database.
+we need the first name, middle name, last name, date of birth, phone number. You can delete the voted and voder id, because 
+we are using  database. 
+
+Also we should be able to display the voter information in this app as seen in azure.
+We also need to work on remove button, to remove the voter, and rather than the update button, make a save button to save the info.
+
+Also you can add Title like Voter on the top of the page. 
+
+
